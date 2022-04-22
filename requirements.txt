@@ -27,7 +27,7 @@ pycodestyle==2.5.0
 pyjokes==0.6.0
 pylint==2.4.3
 pyparsing==2.4.5
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 PyYAML==5.1.2
 requests==2.22.0
